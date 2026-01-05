@@ -5,9 +5,8 @@ An interactive web-based viewer for X-bar styled syntax trees of *The Little Pri
 ## Features
 
 - **Bilingual Support**: View syntax trees for both English (1502 sentences) and Chinese (1577 sentences)
-- **Interactive Interface**: Click any sentence to display its corresponding syntax tree
+- **Interactive Interface**: Click any sentence to display its corresponding X-bar styled syntax trees
 - **Search**: Filter sentences by keyword
-- **Keyboard Navigation**: Use arrow keys to navigate between sentences
 
 ## Usage
 
