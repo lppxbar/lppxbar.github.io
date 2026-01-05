@@ -15,8 +15,8 @@ Simply open `index.html` in a web browser or visit the live site.
 
 ## Data
 
-- `docs/snts_en.txt` - English sentences from *The Little Prince*
-- `docs/snts_cn.txt` - Chinese sentences from 《小王子》
+- `docs/snts_en.txt` - 1502 English sentences
+- `docs/snts_cn.txt` - 1577 Chinese sentences
 - `imgs/en/` - Syntax tree images for English sentences
 - `imgs/cn/` - Syntax tree images for Chinese sentences
 
