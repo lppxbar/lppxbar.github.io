@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imgs/logo.png" alt="X-bar Tree Viewer Logo" width="200">
+</p>
+
 # X-bar Tree Viewer
 
 An interactive web-based viewer for X-bar styled syntax trees of *The Little Prince*.
@@ -22,4 +26,3 @@ Simply open `index.html` in a web browser or visit the live site.
 ## License
 
 For academic and research purposes.
-
